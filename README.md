@@ -22,7 +22,7 @@
 [![Demo](https://img.shields.io/badge/Annotation-Pipeline-red)](https://huggingface.co/datasets/MBZUAI/video_annotation_pipeline)
 
 ## :loudspeaker: Latest Updates
-- **Jun-13-24**: VideoGPT+ is released. :fire::fire:
+- **Jun-13-24**: VideoGPT+ paper, code, model, dataset and benchmark is released. :fire::fire:
 ---
 
 ## VideoGPT+ Overview :bulb:
