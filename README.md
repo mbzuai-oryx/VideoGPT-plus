@@ -16,7 +16,7 @@
 
 ---
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-blue.svg)](https://github.com/mbzuai-oryx/VideoGPT-plus)
+[![paper](https://img.shields.io/badge/arXiv-Paper-blue.svg)](https://arxiv.org/abs/2406.09418)
 [![video](https://img.shields.io/badge/Project-HuggingFace-F9D371)](https://www.youtube.com/watch?v=0dZ4dlNIGTY)
 [![Dataset](https://img.shields.io/badge/VCGBench-Diverse-green)](https://huggingface.co/datasets/MBZUAI/VCGBench-Diverse)
 [![Demo](https://img.shields.io/badge/Annotation-Pipeline-red)](https://huggingface.co/datasets/MBZUAI/video_annotation_pipeline)
@@ -154,12 +154,12 @@ A comprehensive evaluation of VideoGPT+ performance across multiple tasks and do
 
 If you're using VideoGPT+ in your research or applications, please cite using this BibTeX:
 ```bibtex
-@inproceedings{Maaz2024VideoGPT+,
+@article{Maaz2024VideoGPT+,
     title={VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding},
     author={Maaz, Muhammad and Rasheed, Hanoona and Khan, Salman and Khan, Fahad Shahbaz},
-    journal={coming soon},
+    journal={arxiv},
     year={2024},
-    url={coming soon}
+    url={https://arxiv.org/abs/2406.09418}
 }
 
 @inproceedings{Maaz2023VideoChatGPT,
