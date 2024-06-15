@@ -17,7 +17,7 @@
 ---
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-blue.svg)](https://arxiv.org/abs/2406.09418)
-[![video](https://img.shields.io/badge/Project-HuggingFace-F9D371)](https://www.youtube.com/watch?v=0dZ4dlNIGTY)
+[![video](https://img.shields.io/badge/Project-HuggingFace-F9D371)](https://huggingface.co/collections/MBZUAI/videogpt-665c8643221dda4987a67d8d)
 [![Dataset](https://img.shields.io/badge/VCGBench-Diverse-green)](https://huggingface.co/datasets/MBZUAI/VCGBench-Diverse)
 [![Demo](https://img.shields.io/badge/Annotation-Pipeline-red)](https://huggingface.co/datasets/MBZUAI/video_annotation_pipeline)
 
