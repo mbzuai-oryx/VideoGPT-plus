@@ -21,6 +21,22 @@
 [![Dataset](https://img.shields.io/badge/VCGBench-Diverse-green)](https://huggingface.co/datasets/MBZUAI/VCGBench-Diverse)
 [![Demo](https://img.shields.io/badge/Annotation-Pipeline-red)](https://huggingface.co/datasets/MBZUAI/video_annotation_pipeline)
 
+---
+**Diverse Video-based Generative Performance Benchmarking (VCGBench-Diverse)**
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/videogpt-integrating-image-and-video-encoders/vcgbench-diverse-on-videoinstruct)](https://paperswithcode.com/sota/vcgbench-diverse-on-videoinstruct?p=videogpt-integrating-image-and-video-encoders)
+
+**Video Question Answering on MVBench**
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/videogpt-integrating-image-and-video-encoders/video-question-answering-on-mvbench)](https://paperswithcode.com/sota/video-question-answering-on-mvbench?p=videogpt-integrating-image-and-video-encoders)
+
+
+**Video-based Generative Performance Benchmarking**
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/videogpt-integrating-image-and-video-encoders/video-based-generative-performance)](https://paperswithcode.com/sota/video-based-generative-performance?p=videogpt-integrating-image-and-video-encoders)
+
+---
+
 ## :loudspeaker: Latest Updates
 - **Jun-13-24**: VideoGPT+ paper, code, model, dataset and benchmark is released. :fire::fire:
 ---
