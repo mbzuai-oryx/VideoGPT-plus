@@ -2,7 +2,7 @@
 We provide scripts for projector pretraining and video fine-tuning of VideoGPT+. Please follow the instructions below.
 
 ## Download Training Dataset
-You can download all the pretraining and fine-tuning datasets from HuggingFace follow the instructions below,
+You can download all the pretraining and fine-tuning datasets from Hugging Face follow the instructions below,
 
 ```bash
 mkdir playground
@@ -18,7 +18,7 @@ Use the script [scripts/pretrain_projector_image_encoder.sh](scripts/pretrain_pr
 ## Projector pretraining with InternVideo2 Video Encoder
 Please use the script [scripts/pretrain_projector_video_encoder.sh](scripts/pretrain_projector_video_encoder.sh) for running MLP projector pretraining with InternVideo2 video encoder.
 
-ALTERNATIVELY, you can download the pretrained projector weights provided by us from the HuggingFace,
+ALTERNATIVELY, you can download the pretrained projector weights provided by us from the Hugging Face,
 
 ```bash
 git lfs install
