@@ -26,4 +26,4 @@ git clone https://huggingface.co/MBZUAI/VideoGPT-plus_Phi3-mini-4k_Pretrain
 ```
 
 ## Video Instruction Fine-tuning
-Please use the script [scripts/finetune_dual_encoder.sh](scripts/finetune_dual_encoder.sh) for video instruction fine-tuning.
+Please use the script [scripts/finetune_dual_encoder.sh](finetune_dual_encoder.sh) for video instruction fine-tuning.
