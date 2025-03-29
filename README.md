@@ -38,6 +38,8 @@
 ---
 
 ## :loudspeaker: Latest Updates
+- **Mar-28-25**: *Mobile-VideoGPT* is released. It achieves excellent results on multiple benchmarks with 2x higher throughput. Check it out [Mobile-VideoGPT](https://github.com/Amshaker/Mobile-VideoGPT) :fire::fire:
+
 - **Jun-13-24**: VideoGPT+ paper, code, model, dataset and benchmark is released. :fire::fire:
 ---
 
