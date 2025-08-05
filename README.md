@@ -10,7 +10,7 @@
 
 ### VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding
 
-#### [Muhammad Maaz](https://www.muhammadmaaz.com) , [Hanoona Rasheed](https://www.hanoonarasheed.com/) , [Salman Khan](https://salman-h-khan.github.io/) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
+#### [Muhammad Maaz](https://www.mmaaz60.com) , [Hanoona Rasheed](https://www.hanoonarasheed.com/) , [Salman Khan](https://salman-h-khan.github.io/) and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
 
 #### **Mohamed bin Zayed University of Artificial Intelligence**
 
